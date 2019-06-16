@@ -105,11 +105,26 @@ const useStyles = makeStyles(theme => ({
 }));
 
 const sections = [
-  'Computação',
-  'Matemática',
-  'Física',
-  'Química',
-  'Engenharia',
+  {
+    title: 'Computação',
+    href: 'https://pt.wikipedia.org/wiki/Computação'
+  },
+  {
+    title: 'Matemática',
+    href: 'https://pt.wikipedia.org/wiki/Matemática'
+  },
+  {
+    title: 'Física',
+    href: 'https://pt.wikipedia.org/wiki/Física'
+  },
+  {
+    title: 'Química',
+    href: 'https://pt.wikipedia.org/wiki/Química'
+  },
+  {
+    title: 'Engenharia',
+    href: 'https://pt.wikipedia.org/wiki/Engenharia'
+  },
 ];
 
 const featuredPosts = [
@@ -181,10 +196,10 @@ export default function Blog() {
               noWrap
               key={section}
               variant="body2"
-              href="#"
+              href={section.href}
               className={classes.toolbarLink}
             >
-              {section}
+              {section.title}
             </Link>
           ))}
         </Toolbar>
