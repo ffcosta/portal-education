@@ -280,7 +280,7 @@ export default function Blog() {
         <AppBar/>
         <Iframe url="https://forms.gle/ocySUxSju1PZkJgB6"
         width="100%"
-        height="900em"
+        height="520px"
         id="myId"
         className="myClassname"
         display="initial"
