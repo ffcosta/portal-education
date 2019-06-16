@@ -211,7 +211,7 @@ export default function Blog() {
                     Tire suas dúvidas, solicite resolução de exércicios sob demanda .
                   </Typography>
                   <Link variant="subtitle1" href="#">
-                    Continue learning...
+                    Continue lendo...
                   </Link>
                 </div>
               </Grid>
@@ -236,7 +236,7 @@ export default function Blog() {
                           {post.description}
                         </Typography>
                         <Typography variant="subtitle1" color="primary">
-                          Continue reading...
+                          Continue lendo...
                         </Typography>
                       </CardContent>
                     </div>
