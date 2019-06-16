@@ -263,16 +263,17 @@ export default function Blog() {
           </Grid>
         </main>
         <AppBar/>
-      </Container>
-     
-      <Iframe url="https://docs.google.com/forms/d/e/1FAIpQLSdOjaWKfFG9NmiKffUaLlPe57pmRRwrz-_u8xEZjo_j3i8dtg/viewform?usp=pp_url"
-        width="1220px"
-        height="1500px"
+        <Iframe url="https://docs.google.com/forms/d/e/1FAIpQLSdOjaWKfFG9NmiKffUaLlPe57pmRRwrz-_u8xEZjo_j3i8dtg/viewform?usp=pp_url"
+        width="100%"
+        height="900px"
         id="myId"
         className="myClassname"
         display="initial"
         position="relative"
         allowFullScreen/>
+      </Container>
+     
+     
       {/* Footer */}
       <footer className={classes.footer}>
         <Container maxWidth="lg">
