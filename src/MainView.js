@@ -278,9 +278,9 @@ export default function Blog() {
           </Grid>
         </main>
         <AppBar/>
-        <Iframe url="https://forms.gle/ocySUxSju1PZkJgB6"
+        <Iframe url="https://docs.google.com/forms/d/e/1FAIpQLSeNsxw_IaqNKXgihOyKVOgYiZH4vqh76zreIUBmgRkomFnSEg/viewform?usp=sf_link"
         width="100%"
-        height="520px"
+        height="900px"
         id="myId"
         className="myClassname"
         display="initial"
