@@ -171,7 +171,7 @@ export default function Blog() {
       <CssBaseline />
       <Container maxWidth="lg">
         <Toolbar className={classes.toolbar}>
-          <Button size="small">Increva-se</Button>
+          <Button size="small" href="https://forms.gle/ocySUxSju1PZkJgB6">Increva-se</Button>
           <Typography
             component="h2"
             variant="h5"
@@ -185,7 +185,7 @@ export default function Blog() {
           <IconButton>
             <SearchIcon />
           </IconButton>
-          <Button variant="outlined" size="small">
+          <Button variant="outlined" size="small" href="https://forms.gle/ocySUxSju1PZkJgB6">
             Sign up
           </Button>
         </Toolbar>
