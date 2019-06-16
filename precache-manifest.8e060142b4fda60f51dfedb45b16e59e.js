@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af05bf073687e2dd9cb144bfeb6df75e",
+    "revision": "b886070955a7660c44c0ee0340236e7a",
     "url": "/portal-education/index.html"
   },
   {
-    "revision": "cb7a5a0d772af3765a5c",
+    "revision": "c4e254868cd39d9dcf44",
     "url": "/portal-education/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portal-education/static/js/2.5ff1526f.chunk.js"
   },
   {
-    "revision": "cb7a5a0d772af3765a5c",
-    "url": "/portal-education/static/js/main.21f859b5.chunk.js"
+    "revision": "c4e254868cd39d9dcf44",
+    "url": "/portal-education/static/js/main.8870494c.chunk.js"
   },
   {
     "revision": "53fcb55c07219b22fa15",
