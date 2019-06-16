@@ -278,7 +278,7 @@ export default function Blog() {
           </Grid>
         </main>
         <AppBar/>
-        <Iframe url="https://docs.google.com/forms/d/e/1FAIpQLSdOjaWKfFG9NmiKffUaLlPe57pmRRwrz-_u8xEZjo_j3i8dtg/viewform?usp=pp_url"
+        <Iframe url="https://forms.gle/ocySUxSju1PZkJgB6"
         width="100%"
         height="900px"
         id="myId"
