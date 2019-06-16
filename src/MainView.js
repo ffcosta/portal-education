@@ -106,8 +106,8 @@ const useStyles = makeStyles(theme => ({
 
 const sections = [
   {
-    title: 'Computação',
-    href: 'https://pt.wikipedia.org/wiki/Computação'
+    title: 'Programação',
+    href: 'https://pt.wikipedia.org/wiki/Programação_de_computadores'
   },
   {
     title: 'Matemática',
