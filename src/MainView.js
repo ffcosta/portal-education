@@ -180,7 +180,7 @@ export default function Blog() {
             noWrap
             className={classes.toolbarTitle}
           >
-            Educação Online - Pagina Protótipo
+            Protótipo
           </Typography>
           <IconButton>
             <SearchIcon />
